@@ -5,7 +5,7 @@ mod line;
 use structopt::StructOpt;
 
 #[derive(StructOpt, Clone)]
-#[structopt(name = "alcom-rs", about = "Powerful aligner of assembler comments")]
+#[structopt(name = "salign", about = "Aligner of assembler comments")]
 pub struct Arguments {
     #[structopt(
         short("e"),
