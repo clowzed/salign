@@ -1,0 +1,14 @@
+[package]
+name        = "salign"
+version     = "1.0.0"
+edition     = "2021"
+author      = "Miasnenko Dmitry <clowzed.work@gmail.com>"
+description = "Align and prettify comments in asm files"
+license     = "MIT"
+repository  = "https://github.com/clowzed/salign.git"
+
+[dependencies]
+structopt    = "0.3.26"
+uuid         = {version = "1.2.2", features = ["v4"] }
+custom_error = "1.9.2"
+extabs       = "0.1.0"
