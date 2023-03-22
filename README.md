@@ -1,9 +1,8 @@
 # salign
 Aligner of comment separator in asm files
 ![build](https://github.com/clowzed/salign/actions/workflows/build.yml/badge.svg)
-![Crates.io](https://img.shields.io/crates/v/salign?color=gree)
-![Crates.io (recent)](https://img.shields.io/crates/dr/salign?color=gree&label=downloads)
-
+![Crates.io](https://img.shields.io/crates/v/salign?color=green)
+![Crates.io](https://img.shields.io/crates/d/salign?color=green)
 
 # Installation
 ```bash
